@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @noraini0210
+- 👋 Hi, I’m Noraini
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning Python, NCL for its application in climate change. I am familiar with MATLAB and R.
 
