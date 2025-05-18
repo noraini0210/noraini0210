@@ -1,6 +1,6 @@
 # [Noraini Mohyeddin] 
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)](https://github.com/noraini0210)
+[![Your GitHub Stats]](https://github.com/noraini0210)
 
 
 <!---
