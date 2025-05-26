@@ -1,5 +1,5 @@
 # Noraini Mohyeddin
-
+🔭🚀🌍🧭✨ Exploring exciting opportunities
 
 # Bio
 - PhD candidate at the Institute of Ocean and Earth Science (IOES), Universiti Malaya
