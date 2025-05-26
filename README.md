@@ -1,7 +1,7 @@
 # Noraini Mohyeddin
 🔭🚀🌍🧭✨ Exploring exciting opportunities
 
-# Bio
+# About me
 - PhD candidate at the Institute of Ocean and Earth Science (IOES), Universiti Malaya
     - 🌱 Comparative analysis between reanalysis and CMIP6  
     - ⚙️ Investigation on the expansion of [warm pool](aoi.gif) and air-sea heat budgets associated with it    
