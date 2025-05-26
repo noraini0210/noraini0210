@@ -4,7 +4,7 @@
 # Bio
 - PhD candidate at the Institute of Ocean and Earth Science (IOES), Universiti Malaya
     - 🌱 Comparative analysis between reanalysis and CMIP6  
-    - ⚙️ Investigation on the expansion of [warm pool](noraini0210/aoi.gif) and air-sea heat budgets associated with it    
+    - ⚙️ Investigation on the expansion of [warm pool]([noraini0210/aoi.gif](https://github.com/noraini0210/noraini0210/blob/main/aoi.gif)) and air-sea heat budgets associated with it    
    
 - M.Phil, IOES, UM
     - 📄 : [The effects of synoptic and local meteorological condition on CO2, CH4, PM10 and PM2.5 at Bachok Marine Research Station (BMRS) in Peninsular Malaysia](https://link.springer.com/article/10.1007/s00703-020-00724-7)
